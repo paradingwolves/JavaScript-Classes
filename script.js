@@ -1,7 +1,6 @@
 /*
     Assignment 05
     Justin Brierley
-    W0724299
     October 24, 2022
 */
 
