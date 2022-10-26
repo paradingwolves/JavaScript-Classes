@@ -4,7 +4,7 @@
     October 24, 2022
 */
 
-/* $(document).ready(function () { */
+ $(document).ready(function () { 
     class ContentItem {
         id;
         name;
@@ -50,4 +50,4 @@
     $('#updateObjectFail').on('click', function(){
         item[0].updateContentItem(67, "Advil", "Headache Relief", "Pills");
     });
-/* }); */
+}); 
